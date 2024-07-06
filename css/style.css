@@ -1,0 +1,146 @@
+.navbar {
+    background-color: #00C7AB !important;
+
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #ffffff !important;
+}
+
+
+
+
+.navbar-brand {
+    background-color: white;
+    padding: 20px 30px;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+.s_text img{
+    width: 70px;
+    margin-bottom: 30px;
+}
+.icon {
+    color: #00C7AB !important;
+
+}
+
+.image{
+    width: 100px;
+    height: 58px;
+    object-fit: cover;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #000000 !important;
+}
+
+.nav-icons {
+    display: flex;
+    align-items: center;
+}
+
+.nav-icons a {
+    color: #ffffff;
+    margin-left: 15px;
+}
+
+.search-bar {
+    display: none;
+    position: absolute;
+    right: 42px;
+    top: 20px;
+    width: 200px;
+}
+
+.search-bar.active {
+    display: block;
+}
+
+.hero-slider {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 40px;
+    margin-bottom: 60px;
+    position: relative;
+}
+
+.hero-dot-wrapper {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 300px;
+    /* Adjust the width as needed */
+    height: 250px;
+    /* Adjust the height as needed */
+}
+
+.hero-dot {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: #00C7AB !important;
+    padding: 20px !important;
+    border-radius: 4px;
+}
+
+.carousel-control-next-icon {
+    margin-left: 40px;
+}
+
+.carousel .carousel-control-prev,
+.carousel .carousel-control-next {
+    width: 20px;
+    height: 20px;
+    background-color: none;
+    opacity: .8;
+    top: auto !important;
+    bottom: -50px;
+}
+
+.carousel .carousel-control-prev {
+    left: unset;
+    right: 30px;
+}
+
+.s_text h1 {
+    font-size: 45px;
+    font-style: bold;
+}
+
+.button {
+    background-color: black !important;
+    color: white !important;
+    padding: 10px 40px;
+    border: 0;
+}
+
+.form-content-wrapper {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 40px;
+}
+
+.form-title {
+    padding: 5px 0;
+}
+
+.form-title-text-underline {
+    border-bottom: 3px solid #00C7AB;
+}
+
+.title-highlight {
+    color: #00C7AB;
+}
+
+.form-control,
+.form-select {
+
+    border: 1px solid #00C7AB !important;
+}
