@@ -139,6 +139,9 @@
     color: #00C7AB;
 }
 
+input::placeholder {
+    color: #00C7AB !important;
+  }
 .form-control,
 .form-select {
 
